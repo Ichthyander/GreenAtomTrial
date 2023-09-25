@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"%appdata%\Autodesk\Revit\Addins\2019\di_ignatov_addins\GreenAtomTrial\GreenAtomTrial.dll"</Assembly>
+		<AddInId>
+			"DF8545AB-EA04-47B6-B8DF-BAA81E4EC183"
+		</AddInId>
+		<FullClassName>GreenAtomTrial.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка скоб в стене</Text>
+	</AddIn>
+</RevitAddIns>
